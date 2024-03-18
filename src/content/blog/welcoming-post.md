@@ -19,6 +19,6 @@ fn main() {
 }
 ```
 
-I am currently working hard on finishing my Master degree at UCL, specifically my Senior Project: "Improving Space Efficiency of the Memory Management System of CantripOS" (title WIP :) ). I will be sharing some tips I and hurdles I found while working on it, specifically related to [seL4 Microkernel](https://sel4.systems/) development, [CantripOS](https://opensecura.googlesource.com/manifest/+/refs/heads/master/README.md) and kernel software debugging. See you then, and wish me luck!
+I am currently working hard on finishing my Master's degree at UCL, specifically my Senior Project: "Improving Space Efficiency of the Memory Management System of CantripOS" (title WIP :) ). I will be sharing some tips and hurdles I found while working on it, specifically related to [seL4 Microkernel](https://sel4.systems/) development, [CantripOS](https://opensecura.googlesource.com/manifest/+/refs/heads/master/README.md) and kernel software debugging. See you then, and wish me luck!
 
 :[wq](https://www.vim.org/)
