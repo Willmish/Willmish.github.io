@@ -1,36 +1,25 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Welcome to my corner of the Internet! [Stay awhile, and read on](https://www.youtube.com/watch?v=tAVVy_x3Erg).
+I am Szymon Duchniewicz, final year student at UCL, pursuing a Master of Engineering degree from Computer Science. I am also active in Open Source, co-chairing the [Carbon Aware SDK project](https://github.com/Green-Software-Foundation/carbon-aware-sdk) and working part-time as an Open Technology Engineer at [Avanade](https://www.avanade.com/en-gb).
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/me_cropped.jpg" class="sm:w-1/2 mx-auto" alt="Headshot of yours truly!">
 </div>
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I dabble in many areas of computer science, but with a stronger focus on Embedded Systems, Natural Language Processing and Computer Vision. I also occasionally take part in game jams, even [winning some of them](https://hist0r.itch.io/the-deluge).
 
-## Features
+My programming languages of choice are C, Python 🐍 and Rust 🦀, but you will find me using .NET, GoLang from time to time.
 
-Here are certain features of this site.
+## Interests
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Apart from the (I am told) obvious passion for Computer Science, there are a few other things I hold close to heart - windsurfing and surfing. Ask me over a beer/coffee and I will be happy to talk about any of them!
+<!---
+TODO: Add skills, socials and tl;dr on the blogs content and recent achievments
+---!>
