@@ -30,6 +30,7 @@ Supervisor: [Prof. Brad Karp](http://www0.cs.ucl.ac.uk/staff/b.karp/)
 
 **Abstract**: Efficient management and tracking of memory resources pose a significant challenge for computer systems due to diverse program memory requirements and system constraints. This thesis aims to improve the memory management system of CantripOS, a new experimental operating system designed for cost-constrained, memory-limited edge compute nodes, built atop the secure, formally verified seL4 microkernel. We investigate the space efficiency and performance of CantripOS’s memory management system, hypothesising significant memory fragmentation due to the system’s global rather than per-region memory tracking. The primary goals of this work are to improve memory bookkeeping in CantripOS, decrease failed allocation system calls, and reduce memory fragmentation. We evaluate two different memory allocators: next-fit and best-fit, and show that our improvements eliminate failed allocation system calls and substantially decrease memory fragmentation for various synthetic and representative workloads.
 
+[Gabby's Portfolio :)](/assets/Gabrielle-Healey-Portfolio-2026.pdf).
 <!---
 TODO: Add skills, socials and tl;dr on the blogs content and recent achievments
 ---!>
